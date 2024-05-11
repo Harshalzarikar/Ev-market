@@ -1,4 +1,5 @@
 Electric Vehicle Market Segmentation Analysis
+
 Abstract
 This project presents a comprehensive analysis of India's electric vehicle market, focusing on segmentation derived from sales data, customer reviews, and technical specifications. The study highlights the robust growth trajectory of India's two-wheeler market, establishing it as a primary revenue source. Utilizing behavioral variables from customer reviews, a rigorous market segmentation analysis was conducted employing the standard k-means algorithm. The analysis effectively partitioned the market into four distinct segments.
 
